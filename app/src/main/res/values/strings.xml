@@ -11,4 +11,8 @@
     <string name="men">Men</string>
     <string name="women">Women</string>
     <string name="nonbinary_people">Nonbinary people</string>
+    <string name="profile">Profile</string>
+    <string name="for_you">For You</string>
+    <string name="liked_you">Liked You</string>
+    <string name="chats">Chats</string>
 </resources>

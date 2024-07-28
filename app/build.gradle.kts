@@ -37,7 +37,8 @@ android {
 
 dependencies {
 
-    implementation("androidx.core:core-splashscreen:1.0.0")
+    implementation(libs.androidx.core.splashscreen)
+    implementation (libs.material.v130alpha02)
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
